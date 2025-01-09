@@ -1,0 +1,13 @@
+{
+    "from": "User",
+    "gcode_label_objects": "0",
+    "inherits": "0.15mm Optimal @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.15mm Optimal @MyKlipper - personalized",
+    "print_settings_id": "0.15mm Optimal @MyKlipper - personalized",
+    "seam_gap": "5%",
+    "seam_position": "nearest",
+    "skirt_loops": "1",
+    "sparse_infill_density": "0%",
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#6C6C6C"
+    ],
+    "filament_settings_id": [
+        "Overture PETG"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Overture PETG",
+    "version": "1.8.0.0"
+}

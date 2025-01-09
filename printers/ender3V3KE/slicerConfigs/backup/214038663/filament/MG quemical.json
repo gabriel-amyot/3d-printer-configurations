@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#BFD927"
+    ],
+    "filament_settings_id": [
+        "MG quemical"
+    ],
+    "filament_vendor": [
+        "MG Quem"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "MG quemical",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,19 @@
+{
+    "bed_custom_model": "/Users/gabrielamyot/Downloads/Ender 3.stl",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END\nPRINT_STOP",
+    "machine_start_gcode": "M190 S[bed_temperature_initial_layer_single]\nM109 S[nozzle_temperature_initial_layer]\nSTART_PRINT",
+    "name": "Ender3 Klipper 0.4",
+    "nozzle_type": "brass",
+    "print_host": "http://ender3.local/",
+    "printable_area": [
+        "0x0",
+        "232x0",
+        "232x231",
+        "0x231"
+    ],
+    "printer_settings_id": "Ender3 Klipper 0.4",
+    "version": "1.8.0.0"
+}

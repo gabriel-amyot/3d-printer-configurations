@@ -1,0 +1,18 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_STOP",
+    "machine_start_gcode": "START_PRINT",
+    "name": "Klipper Ender-3 0.4 nozzle - Copy",
+    "print_host": "http://ender3.local/",
+    "printable_area": [
+        "0x0",
+        "231x0",
+        "231x229",
+        "0x229"
+    ],
+    "printer_settings_id": "Klipper Ender-3 0.4 nozzle - Copy",
+    "version": "1.8.0.0"
+}

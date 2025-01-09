@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Gab's Ender-3 V3 KE 0.4 nozzle",
+    "printer_settings_id": "Gab's Ender-3 V3 KE 0.4 nozzle",
+    "version": "2.1.1.0"
+}
