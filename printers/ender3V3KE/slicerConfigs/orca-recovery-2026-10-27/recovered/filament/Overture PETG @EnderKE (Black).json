@@ -1,0 +1,51 @@
+{
+    "from": "User",
+    "inherits": "Creality Generic PETG @Ender-3V3-all",
+    "name": "Overture PETG @EnderKE (Black)",
+    "version": "2.1.1.0",
+    "filament_settings_id": [
+        "Overture PETG @EnderKE (Black)"
+    ],
+    "close_fan_the_first_x_layers": [
+        "5"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "hot_plate_temp": [
+        "90"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.074"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ]
+}

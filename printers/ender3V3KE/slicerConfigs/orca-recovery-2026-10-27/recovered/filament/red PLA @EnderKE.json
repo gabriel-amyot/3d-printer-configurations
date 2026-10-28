@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "name": "red PLA @EnderKE",
+    "version": "2.1.1.0",
+    "filament_settings_id": [
+        "red PLA @EnderKE"
+    ],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ]
+}

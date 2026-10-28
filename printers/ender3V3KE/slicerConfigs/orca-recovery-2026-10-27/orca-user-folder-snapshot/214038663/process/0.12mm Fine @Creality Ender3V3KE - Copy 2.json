@@ -1,0 +1,19 @@
+{
+    "brim_ears_detection_length": "15",
+    "brim_type": "brim_ears",
+    "brim_width": "10",
+    "from": "User",
+    "gap_fill_target": "everywhere",
+    "inherits": "0.12mm Fine @Creality Ender3V3KE",
+    "inner_wall_speed": "200",
+    "internal_solid_infill_speed": "200",
+    "is_custom_defined": "0",
+    "make_overhang_printable": "1",
+    "name": "0.12mm Fine @Creality Ender3V3KE - Copy 2",
+    "print_settings_id": "0.12mm Fine @Creality Ender3V3KE - Copy 2",
+    "sparse_infill_density": "2%",
+    "sparse_infill_pattern": "supportcubic",
+    "sparse_infill_speed": "200",
+    "top_surface_speed": "200",
+    "version": "2.1.1.0"
+}

@@ -1,0 +1,14 @@
+{
+    "from": "User",
+    "inherits": "0.12mm Fine @Creality Ender3V3KE",
+    "name": "0.12mm Fine PLA  Ender3V3KE",
+    "version": "2.1.1.0",
+    "print_settings_id": "0.12mm Fine PLA  Ender3V3KE",
+    "bottom_surface_pattern": "zig-zag",
+    "brim_type": "brim_ears",
+    "ironing_type": "top",
+    "seam_slope_entire_loop": "1",
+    "sparse_infill_density": "5%",
+    "sparse_infill_pattern": "supportcubic",
+    "top_surface_pattern": "zig-zag"
+}

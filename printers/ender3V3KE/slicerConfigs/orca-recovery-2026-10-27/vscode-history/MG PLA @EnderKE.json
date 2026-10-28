@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#FFFF0A"
+    ],
+    "filament_settings_id": [
+        "MG PLA @EnderKE"
+    ],
+    "filament_vendor": [
+        "M.G. Quemicals"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "MG PLA @EnderKE",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "2.1.1.0"
+}

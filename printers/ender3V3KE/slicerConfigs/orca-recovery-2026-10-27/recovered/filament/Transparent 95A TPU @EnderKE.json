@@ -1,0 +1,21 @@
+{
+    "from": "User",
+    "inherits": "Creality Generic TPU @Ender-3V3-all",
+    "name": "Transparent 95A TPU @EnderKE",
+    "version": "2.1.1.0",
+    "filament_settings_id": [
+        "Transparent 95A TPU @EnderKE"
+    ],
+    "default_filament_colour": [
+        "#E2B8FF"
+    ],
+    "filament_cost": [
+        "22"
+    ],
+    "filament_vendor": [
+        "Geeetech"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ]
+}

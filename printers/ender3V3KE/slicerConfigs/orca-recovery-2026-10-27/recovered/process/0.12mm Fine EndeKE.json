@@ -1,0 +1,18 @@
+{
+    "from": "User",
+    "inherits": "0.12mm Fine @Creality Ender3V3KE",
+    "name": "0.12mm Fine EndeKE",
+    "version": "2.1.1.0",
+    "print_settings_id": "0.12mm Fine EndeKE",
+    "bottom_surface_pattern": "concentric",
+    "fuzzy_skin": "external",
+    "fuzzy_skin_point_distance": "0.3",
+    "fuzzy_skin_thickness": "0.22",
+    "hole_to_polyhole_twisted": "0",
+    "make_overhang_printable": "1",
+    "reduce_crossing_wall": "1",
+    "sparse_infill_density": "3%",
+    "sparse_infill_pattern": "supportcubic",
+    "wall_loops": "3",
+    "xy_hole_compensation": "0.125"
+}

@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_settings_id": [
+        "White PLA"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "White PLA",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.8.0.0"
+}
