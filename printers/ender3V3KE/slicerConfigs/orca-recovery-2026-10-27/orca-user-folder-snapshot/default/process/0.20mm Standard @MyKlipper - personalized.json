@@ -1,0 +1,20 @@
+{
+    "bottom_surface_pattern": "octagramspiral",
+    "from": "User",
+    "gcode_label_objects": "0",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @MyKlipper - personalized",
+    "print_settings_id": "0.20mm Standard @MyKlipper - personalized",
+    "skirt_loops": "1",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "adaptivecubic",
+    "staggered_inner_seams": "1",
+    "support_on_build_plate_only": "1",
+    "support_threshold_angle": "20",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "3",
+    "top_surface_pattern": "archimedeanchords",
+    "tree_support_wall_count": "2",
+    "version": "1.8.0.0"
+}
